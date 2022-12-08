@@ -10,7 +10,7 @@
 ![create](https://user-images.githubusercontent.com/117428065/206447783-b64c9bdb-01ba-4a29-9a38-4a3351cc04a7.png)
 ### IN DATABASE
 ![createDatabase](https://user-images.githubusercontent.com/117428065/206449249-c7f6cf61-17e2-418c-9e27-c5c9e4c8ed67.png)
-##SINGLE-READ
+## SINGLE-READ
 ### IN POSTMAN
 ![singleRead](https://user-images.githubusercontent.com/117428065/206450259-3a123cf0-ab2c-4051-8423-6dea306ae896.png)
 ## UPDATE
