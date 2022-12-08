@@ -1,4 +1,5 @@
 # REST-API
   Creating PHP 8 CRUD REST API with MySQL & PHP PDO<br>
-##READ
-###IN POSTMAN
+## READ
+### IN POSTMAN
+
