@@ -12,3 +12,6 @@
 ![createDatabase](https://user-images.githubusercontent.com/117428065/206449249-c7f6cf61-17e2-418c-9e27-c5c9e4c8ed67.png)
 ##SINGLE-READ
 ### IN POSTMAN
+## UPDATE
+### IN POSTMAN
+![update](https://user-images.githubusercontent.com/117428065/206449637-279ab73a-c47d-4ec9-8ff1-7e40d2b05877.png)
