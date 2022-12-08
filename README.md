@@ -5,14 +5,14 @@
 ![read](https://user-images.githubusercontent.com/117428065/206448538-83d87490-78ee-4aeb-9daf-1e0a5ed10712.png)
 ### IN DATABASE
 ![readDatabase](https://user-images.githubusercontent.com/117428065/206448800-428b866c-1205-4011-bdd7-d02b686f347e.png)
+## SINGLE-READ
+### IN POSTMAN
+![singleRead](https://user-images.githubusercontent.com/117428065/206450259-3a123cf0-ab2c-4051-8423-6dea306ae896.png)
 ## CREATE
 ### IN POSTMAN
 ![create](https://user-images.githubusercontent.com/117428065/206447783-b64c9bdb-01ba-4a29-9a38-4a3351cc04a7.png)
 ### IN DATABASE
 ![createDatabase](https://user-images.githubusercontent.com/117428065/206449249-c7f6cf61-17e2-418c-9e27-c5c9e4c8ed67.png)
-## SINGLE-READ
-### IN POSTMAN
-![singleRead](https://user-images.githubusercontent.com/117428065/206450259-3a123cf0-ab2c-4051-8423-6dea306ae896.png)
 ## UPDATE
 ### IN POSTMAN
 ![update](https://user-images.githubusercontent.com/117428065/206449637-279ab73a-c47d-4ec9-8ff1-7e40d2b05877.png)
