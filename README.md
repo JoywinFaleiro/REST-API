@@ -9,3 +9,6 @@
 ### IN POSTMAN
 ![create](https://user-images.githubusercontent.com/117428065/206447783-b64c9bdb-01ba-4a29-9a38-4a3351cc04a7.png)
 ### IN DATABASE
+![createDatabase](https://user-images.githubusercontent.com/117428065/206449249-c7f6cf61-17e2-418c-9e27-c5c9e4c8ed67.png)
+##SINGLE-READ
+### IN POSTMAN
